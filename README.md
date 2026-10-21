@@ -10,7 +10,7 @@ My core expertise lies in designing scalable **PHP/Laravel** backends and engine
 
 ### 🚀 **Current Focus**
 
-- 🏗️ **Architecting:** Developing scalable, event-driven SaaS solutions that integrate **LLM agents** into business logic (Stealth Mode).
+- 🎓 **Building [BiliMind](https://bilimind.com):** give it a topic or your own files and it writes a full course with lessons, graded quizzes and a path to follow. A fully written course costs about $0.28 to generate. The desktop edition is open source: **[Odilient/bilimind-desktop](https://github.com/Odilient/bilimind-desktop)** (Electron, local-first, bring your own AI key, AGPL-3.0). Stars, issues and PRs are welcome.
 - 🗣️ **Speaking:** Hosting the **"Git and Github"** Workshop in Malaysia, teaching advanced collaboration workflows.
 - 🔬 **Learning:** ML&MLOps. Mathematical statistics.
 
