@@ -4,7 +4,7 @@
 
 I am a **Senior Backend Engineer** based in **Tashkent, Uzbekistan** (remote, open to relocation), focused on architectural integrity and developer efficiency.
 
-📫 **Open to remote roles** — portfolio with case studies: [odilient.com](https://odilient.com) · Telegram [@OdilovU](https://t.me/OdilovU)
+📫 **Open to remote roles** — live projects: [bilimind.com](https://bilimind.com) · [bronjoy.com](https://bronjoy.com) · [knigopoisk.com](https://knigopoisk.com) · [finkonkurs.com](https://finkonkurs.com) · Telegram [@OdilovU](https://t.me/OdilovU)
 
 I build scalable backends in **PHP / Laravel**, **Node.js / TypeScript (NestJS)** and **Go**, and ship production **AI/LLM systems** — RAG, agents with tools, MCP servers, voice assistants. Live products: [Bronjoy](https://bronjoy.com), [BiliMind](https://bilimind.com), Nomadeo, Knigopoisk.
 
